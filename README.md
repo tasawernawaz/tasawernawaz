@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Open edX 
-- 🌱 I’m currently learning Project Management
+- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Python, Django, Scrapy, JS
 - 📫 How to reach me: tasawernawaz@gmail.com
 
