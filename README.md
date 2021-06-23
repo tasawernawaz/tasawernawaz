@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on React, Python, Django
 - 📫 How to reach me: tasawernawaz@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?tasawernawaz=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tasawernawaz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Tasawer's github stats](https://github-readme-stats.vercel.app/api?username=tasawernawaz&show_icons=true&theme=radical)
 
