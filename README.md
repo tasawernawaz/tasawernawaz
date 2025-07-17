@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Open edX 
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on React, Python, Django
+- 🔭 I’m currently working on btr.tech. Smooth logistics, a Warehouse management system. 
+- 🌱 I’m currently learning AI, LLM integrations
+- 👯 I’m looking to collaborate on Python, Django, RestAPIs, React, LLM integrations.
 - 📫 How to reach me: tasawernawaz@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tasawernawaz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
