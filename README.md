@@ -1,7 +1,3 @@
-[![MasterHead](https://i.ibb.co/vzgsKnB/banner-1.png)](https://github.com/tasawernawaz)
-
-
-
 - 🔭 I’m currently working on btr.tech. Smooth logistics, a Warehouse management system. 
 - 🌱 I’m currently learning AI, LLM integrations
 - 👯 I’m looking to collaborate on Python, Django, RestAPIs, React, LLM integrations.
